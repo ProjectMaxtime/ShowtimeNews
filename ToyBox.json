@@ -5,14 +5,17 @@
   "Levels": [
     {
       "Level": 1,
+      "Free": true,
       "ItemID": 193
     },
     {
       "Level": 2,
+      "Free": false,
       "ItemID": 194
     },
     {
       "Level": 3,
+      "Free": false,
       "ItemID": 195
     }
   ]
