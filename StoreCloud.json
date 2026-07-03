@@ -1,0 +1,22 @@
+{
+  "ShopItems": [
+    {
+      "ID": 193,
+      "Price": 500,
+      "CurrencyType": "Playcoins",
+      "Bundle": false
+    },
+    {
+      "ID": 703,
+      "Price": 1500,
+      "CurrencyType": "Tickets",
+      "Bundle": true
+    },
+    {
+      "ID": 10,
+      "Price": 200,
+      "CurrencyType": "Playcoins",
+      "Bundle": false
+    }
+  ]
+}
