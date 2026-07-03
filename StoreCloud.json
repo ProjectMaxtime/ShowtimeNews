@@ -5,18 +5,20 @@
       "Price": 500,
       "CurrencyType": "Playcoins",
       "Bundle": false
-    },
+    }
+  ],
+  "PerksShop": [
     {
-      "ID": 703,
-      "Price": 1500,
-      "CurrencyType": "Tickets",
-      "Bundle": true
-    },
+      "ID": "None",
+      "Price": 300,
+      "CurrencyType": "Tickets"
+    }
+  ],
+  "SabotageShop": [
     {
-      "ID": 10,
-      "Price": 200,
-      "CurrencyType": "Playcoins",
-      "Bundle": false
+      "ID": "None",
+      "Price": 800,
+      "CurrencyType": "Playcoins"
     }
   ]
 }
