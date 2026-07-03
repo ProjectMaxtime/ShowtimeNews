@@ -1,0 +1,17 @@
+{
+  "AllShopyItems": [466],
+  "Shoppy": [
+    {
+      "Name": "Daily",
+      "ShoppyType": "daily",
+      "Items": [
+        {
+          "ID": 193,
+          "PriceInCoins": 1,
+          "SalePriceInCoin": 1,
+          "Rarity": ""
+        }
+      ]
+    }
+  ]
+}
