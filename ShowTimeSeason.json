@@ -1,0 +1,15 @@
+{
+  "Version": "1.0",
+  "seasonID": 1,
+  "DisplayName": "Season 1",
+  "CanBuyPremium": false,
+  "DescrSeason": "Mod Release",
+  "BannerUrl": "",
+  "ExlusiveItemsSeson": [
+    {
+      "ID": 193,
+      "FREE": true
+    },
+    1
+  ]
+}
