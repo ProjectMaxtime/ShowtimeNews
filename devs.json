@@ -1,4 +1,26 @@
 {
+  "ShopItems": [
+    {
+      "ID": 193,
+      "Price": 500,
+      "CurrencyType": "Playcoins",
+      "Bundle": false
+    }
+  ],
+  "PerksShop": [
+    {
+      "ID": "None",
+      "Price": 300,
+      "CurrencyType": "Tickets"
+    }
+  ],
+  "SabotageShop": [
+    {
+      "ID": "None",
+      "Price": 800,
+      "CurrencyType": "Playcoins"
+    }
+  ],
   "PublicAccess": false,
   "DevCosmeticDetection": [
     "76561199492335902", "76561199791758733", "76561199275092719", "76561199761336932", 
