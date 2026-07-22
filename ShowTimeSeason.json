@@ -1,15 +1,5 @@
 {
-  "Version": "1.0",
-  "seasonID": 1,
+  "Version": "0.1A",
   "DisplayName": "Season 1",
-  "CanBuyPremium": false,
-  "DescrSeason": "Mod Release",
   "BannerUrl": "https://raw.githubusercontent.com/ProjectMaxtime/ShowtimeNews/main/SeasonRender.png",
-  "ExlusiveItemsSeson": [
-    {
-      "ID": 193,
-      "FREE": true
-    },
-    1
-  ]
 }
