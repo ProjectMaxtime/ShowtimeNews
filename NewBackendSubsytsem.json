@@ -1,0 +1,103 @@
+{
+  "ID": "Season_1",
+  "DisplayName": "Phase 9",
+  "Items": [
+    {
+      "ID": 101,
+      "Free": true,
+      "Level": 1
+    },
+    {
+      "ID": 102,
+      "Free": false,
+      "Level": 2
+    },
+    {
+      "ID": 103,
+      "Free": true,
+      "Level": 3
+    }
+  ],
+  "perkSabotageDefault": [
+    {
+      "id": "PuzzlePicasso",
+      "level": 3
+    },
+    {
+      "id": "LivingNightmare",
+      "level": 3
+    },
+    {
+      "id": "Leadership",
+      "level": 3
+    },
+    {
+      "id": "Boobytrap",
+      "level": 3
+    },
+    {
+      "id": "ClawCollector",
+      "level": 3
+    },
+    {
+      "id": "ShadowWalker",
+      "level": 3
+    },
+    {
+      "id": "TotalLockdown",
+      "level": 3
+    },
+    {
+      "id": "AutoCarry",
+      "level": 3
+    },
+    {
+      "id": "Directionless",
+      "level": 3
+    },
+    {
+      "id": "DistantSavior",
+      "level": 3
+    },
+    {
+      "id": "MasterPianist",
+      "level": 3
+    },
+    {
+      "id": "Pathfinder",
+      "level": 3
+    },
+    {
+      "id": "PunchingBag",
+      "level": 3
+    },
+    {
+      "id": "ThinkFast",
+      "level": 3
+    },
+    {
+      "id": "LeaveNoTrace",
+      "level": 3
+    },
+    {
+      "id": "PowerWalker",
+      "level": 3
+    },
+    {
+      "id": "NoPack",
+      "level": 3
+    },
+    {
+      "id": "Shutdown",
+      "level": 3
+    },
+    {
+      "id": "Genius",
+      "level": 3
+    },
+    {
+      "id": "NoEscape",
+      "level": 3
+    }
+  ]
+}
