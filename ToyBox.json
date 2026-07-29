@@ -1,0 +1,21 @@
+{
+  "ID": "ShowTimePass_1",
+  "DisplayName": "Phase 1",
+  "Items": [
+    {
+      "ID": 101,
+      "Free": true,
+      "Level": 1
+    },
+    {
+      "ID": 102,
+      "Free": false,
+      "Level": 2
+    },
+    {
+      "ID": 103,
+      "Free": true,
+      "Level": 3
+    }
+  ]
+}
