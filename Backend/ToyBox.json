@@ -3,19 +3,504 @@
   "DisplayName": "Phase 1",
   "Items": [
     {
-      "ID": 101,
+      "ID": 2,
       "Free": true,
       "Level": 1
     },
     {
-      "ID": 102,
+      "ID": 190,
       "Free": false,
       "Level": 2
     },
     {
+      "ID": 300,
+      "Free": false,
+      "Level": 3
+    },
+    {
+      "ID": 192,
+      "Free": true,
+      "Level": 4
+    },
+    {
+      "ID": 84,
+      "Free": false,
+      "Level": 5
+    },
+    {
+      "ID": 85,
+      "Free": false,
+      "Level": 6
+    },
+    {
+      "ID": 86,
+      "Free": true,
+      "Level": 7
+    },
+    {
+      "ID": 87,
+      "Free": false,
+      "Level": 8
+    },
+    {
+      "ID": 88,
+      "Free": false,
+      "Level": 9
+    },
+    {
+      "ID": 89,
+      "Free": true,
+      "Level": 10
+    },
+    {
+      "ID": 90,
+      "Free": false,
+      "Level": 11
+    },
+    {
+      "ID": 91,
+      "Free": false,
+      "Level": 12
+    },
+    {
+      "ID": 92,
+      "Free": false,
+      "Level": 13
+    },
+    {
+      "ID": 93,
+      "Free": true,
+      "Level": 14
+    },
+    {
+      "ID": 94,
+      "Free": false,
+      "Level": 15
+    },
+    {
+      "ID": 95,
+      "Free": false,
+      "Level": 16
+    },
+    {
+      "ID": 96,
+      "Free": false,
+      "Level": 17
+    },
+    {
+      "ID": 97,
+      "Free": false,
+      "Level": 18
+    },
+    {
+      "ID": 98,
+      "Free": true,
+      "Level": 19
+    },
+    {
+      "ID": 99,
+      "Free": false,
+      "Level": 20
+    },
+    {
+      "ID": 100,
+      "Free": false,
+      "Level": 21
+    },
+    {
+      "ID": 101,
+      "Free": false,
+      "Level": 22
+    },
+    {
+      "ID": 102,
+      "Free": false,
+      "Level": 23
+    },
+    {
       "ID": 103,
       "Free": true,
-      "Level": 3
+      "Level": 24
+    },
+    {
+      "ID": 104,
+      "Free": false,
+      "Level": 25
+    },
+    {
+      "ID": 105,
+      "Free": false,
+      "Level": 26
+    },
+    {
+      "ID": 106,
+      "Free": false,
+      "Level": 27
+    },
+    {
+      "ID": 107,
+      "Free": false,
+      "Level": 28
+    },
+    {
+      "ID": 108,
+      "Free": true,
+      "Level": 29
+    },
+    {
+      "ID": 109,
+      "Free": false,
+      "Level": 30
+    },
+    {
+      "ID": 110,
+      "Free": false,
+      "Level": 31
+    },
+    {
+      "ID": 111,
+      "Free": false,
+      "Level": 32
+    },
+    {
+      "ID": 112,
+      "Free": false,
+      "Level": 33
+    },
+    {
+      "ID": 113,
+      "Free": true,
+      "Level": 34
+    },
+    {
+      "ID": 114,
+      "Free": false,
+      "Level": 35
+    },
+    {
+      "ID": 115,
+      "Free": false,
+      "Level": 36
+    },
+    {
+      "ID": 116,
+      "Free": false,
+      "Level": 37
+    },
+    {
+      "ID": 117,
+      "Free": true,
+      "Level": 38
+    },
+    {
+      "ID": 118,
+      "Free": false,
+      "Level": 39
+    },
+    {
+      "ID": 119,
+      "Free": false,
+      "Level": 40
+    },
+    {
+      "ID": 120,
+      "Free": false,
+      "Level": 41
+    },
+    {
+      "ID": 121,
+      "Free": true,
+      "Level": 42
+    },
+    {
+      "ID": 122,
+      "Free": false,
+      "Level": 43
+    },
+    {
+      "ID": 123,
+      "Free": false,
+      "Level": 44
+    },
+    {
+      "ID": 124,
+      "Free": false,
+      "Level": 45
+    },
+    {
+      "ID": 125,
+      "Free": false,
+      "Level": 46
+    },
+    {
+      "ID": 126,
+      "Free": true,
+      "Level": 47
+    },
+    {
+      "ID": 127,
+      "Free": false,
+      "Level": 48
+    },
+    {
+      "ID": 128,
+      "Free": false,
+      "Level": 49
+    },
+    {
+      "ID": 129,
+      "Free": false,
+      "Level": 50
+    },
+    {
+      "ID": 80,
+      "Free": true,
+      "Level": 51
+    },
+    {
+      "ID": 81,
+      "Free": false,
+      "Level": 52
+    },
+    {
+      "ID": 82,
+      "Free": false,
+      "Level": 53
+    },
+    {
+      "ID": 83,
+      "Free": false,
+      "Level": 54
+    },
+    {
+      "ID": 84,
+      "Free": true,
+      "Level": 55
+    },
+    {
+      "ID": 85,
+      "Free": false,
+      "Level": 56
+    },
+    {
+      "ID": 86,
+      "Free": false,
+      "Level": 57
+    },
+    {
+      "ID": 87,
+      "Free": false,
+      "Level": 58
+    },
+    {
+      "ID": 88,
+      "Free": false,
+      "Level": 59
+    },
+    {
+      "ID": 89,
+      "Free": true,
+      "Level": 60
+    },
+    {
+      "ID": 90,
+      "Free": false,
+      "Level": 61
+    },
+    {
+      "ID": 91,
+      "Free": false,
+      "Level": 62
+    },
+    {
+      "ID": 92,
+      "Free": false,
+      "Level": 63
+    },
+    {
+      "ID": 93,
+      "Free": true,
+      "Level": 64
+    },
+    {
+      "ID": 94,
+      "Free": false,
+      "Level": 65
+    },
+    {
+      "ID": 95,
+      "Free": false,
+      "Level": 66
+    },
+    {
+      "ID": 96,
+      "Free": true,
+      "Level": 67
+    },
+    {
+      "ID": 97,
+      "Free": false,
+      "Level": 68
+    },
+    {
+      "ID": 98,
+      "Free": false,
+      "Level": 69
+    },
+    {
+      "ID": 99,
+      "Free": false,
+      "Level": 70
+    },
+    {
+      "ID": 100,
+      "Free": true,
+      "Level": 71
+    },
+    {
+      "ID": 101,
+      "Free": false,
+      "Level": 72
+    },
+    {
+      "ID": 102,
+      "Free": false,
+      "Level": 73
+    },
+    {
+      "ID": 103,
+      "Free": false,
+      "Level": 74
+    },
+    {
+      "ID": 104,
+      "Free": true,
+      "Level": 75
+    },
+    {
+      "ID": 105,
+      "Free": false,
+      "Level": 76
+    },
+    {
+      "ID": 106,
+      "Free": false,
+      "Level": 77
+    },
+    {
+      "ID": 107,
+      "Free": true,
+      "Level": 78
+    },
+    {
+      "ID": 108,
+      "Free": false,
+      "Level": 79
+    },
+    {
+      "ID": 109,
+      "Free": false,
+      "Level": 80
+    },
+    {
+      "ID": 110,
+      "Free": true,
+      "Level": 81
+    },
+    {
+      "ID": 111,
+      "Free": false,
+      "Level": 82
+    },
+    {
+      "ID": 112,
+      "Free": false,
+      "Level": 83
+    },
+    {
+      "ID": 113,
+      "Free": false,
+      "Level": 84
+    },
+    {
+      "ID": 114,
+      "Free": false,
+      "Level": 85
+    },
+    {
+      "ID": 115,
+      "Free": true,
+      "Level": 86
+    },
+    {
+      "ID": 116,
+      "Free": false,
+      "Level": 87
+    },
+    {
+      "ID": 117,
+      "Free": false,
+      "Level": 88
+    },
+    {
+      "ID": 118,
+      "Free": false,
+      "Level": 89
+    },
+    {
+      "ID": 119,
+      "Free": true,
+      "Level": 90
+    },
+    {
+      "ID": 120,
+      "Free": false,
+      "Level": 91
+    },
+    {
+      "ID": 121,
+      "Free": false,
+      "Level": 92
+    },
+    {
+      "ID": 122,
+      "Free": false,
+      "Level": 93
+    },
+    {
+      "ID": 123,
+      "Free": false,
+      "Level": 94
+    },
+    {
+      "ID": 124,
+      "Free": true,
+      "Level": 95
+    },
+    {
+      "ID": 125,
+      "Free": false,
+      "Level": 96
+    },
+    {
+      "ID": 126,
+      "Free": false,
+      "Level": 97
+    },
+    {
+      "ID": 127,
+      "Free": false,
+      "Level": 98
+    },
+    {
+      "ID": 128,
+      "Free": true,
+      "Level": 99
+    },
+    {
+      "ID": 95,
+      "Free": false,
+      "Level": 100
     }
   ]
 }
