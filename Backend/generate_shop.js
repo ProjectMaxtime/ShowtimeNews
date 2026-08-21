@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path'); // Добавлено для безопасной работы с путями
 
 async function generateShop() {
   const itemsUrl = 'https://cdn.jsdelivr.net/gh/ProjectMaxtime/ShowtimeNews@main/Backend/RandomShopItems.json';
@@ -91,11 +92,19 @@ async function generateShop() {
       { displayName: 'Daily Shop', shoppyType: 'daily', startTime: dailyStart, endTime: dailyEnd, itemSets: formatItems(dailyIds, false) }
     ];
 
-    fs.writeFileSync('Backend/shop.json', JSON.stringify({ General: shopSets }, null, 2));
+    // ДОБАВЛЕНО: Проверка и создание папки Backend перед записью
+    const outputDir = 'Backend';
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir, { recursive: true });
+    }
+
+    fs.writeFileSync(path.join(outputDir, 'shop.json'), JSON.stringify({ General: shopSets }, null, 2));
     console.log('shop.json успешно обновлен!');
 
   } catch (error) {
-    console.error('Ошибка генерации магазина:', error);
+    // ДОБАВЛЕНО: Вывод точной причины ошибки в консоль
+    console.error('🔥 Ошибка генерации магазина:', error.message);
+    console.error(error.stack);
     process.exit(1); 
   }
 }
