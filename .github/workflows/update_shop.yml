@@ -22,7 +22,7 @@ jobs:
           node-version: '24' 
 
       - name: Run shop generator script
-        run: node generate_shop.js
+        run: node Backend/generate_shop.js
 
       - name: Commit and Push changes
         run: |
