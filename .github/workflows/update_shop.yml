@@ -14,14 +14,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4 
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4 
+        uses: actions/setup-node@v4
         with:
           node-version: '24' 
-
-
 
       - name: Run shop generator script
         run: node generate_shop.js
@@ -30,12 +28,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add Backend/shop.json
           
-
+          git add .
+          
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "🤖 Автоматическое обновление магазина [skip ci]"
             git push
           else
-            echo "Файл магазина не изменился, коммит пропускается."
+            echo "Файлы не изменились, коммит пропускается."
           fi
