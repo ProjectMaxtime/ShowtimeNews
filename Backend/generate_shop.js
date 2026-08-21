@@ -91,13 +91,12 @@ async function generateShop() {
       { displayName: 'Daily Shop', shoppyType: 'daily', startTime: dailyStart, endTime: dailyEnd, itemSets: formatItems(dailyIds, false) }
     ];
 
-    // === СОЗДАЕМ ФАЙЛ JSON ===
     fs.writeFileSync('Backend/shop.json', JSON.stringify({ General: shopSets }, null, 2));
     console.log('shop.json успешно обновлен!');
 
   } catch (error) {
     console.error('Ошибка генерации магазина:', error);
-    process.exit(1); // Сообщаем GitHub об ошибке
+    process.exit(1); 
   }
 }
 
