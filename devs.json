@@ -56,10 +56,10 @@
     "76561199492335902"
   ],
   "ExclusiveItemsPhase2": [
-    193,471,193,310,724,1011
+    193,471,472,191,310,667,684,680,529
   ],
   "ExclusiveItemsPhase3": [
-    193,471,237,193,310
+    193,471,472,191,310,667,684,680,529,689,690
   ],
   "PatrickDayEvent": {
     "DisplayName": "Patrick's Day",
@@ -67,7 +67,7 @@
     "StartMonth": 3,
     "EndDay": 6,
     "EndMonth": 4,
-    "Items": [456, 457, 458, 459, 460, 465, 466, 467, 469]
+    "Items": [457, 456, 463, 459, 458, 460, 465, 469, 466]
   },
   "ValentineDayEvent": {
     "DisplayName": "Valentine's Day",
@@ -75,7 +75,7 @@
     "StartMonth": 2,
     "EndDay": 6,
     "EndMonth": 3,
-    "Items": [447, 448, 449, 450, 451, 452]
+    "Items": [448, 449, 450, 452, 451, 447]
   },
   "ChristmasEvent": {
     "DisplayName": "Christmas",
