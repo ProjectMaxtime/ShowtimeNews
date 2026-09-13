@@ -73,7 +73,7 @@
   },
   "ChristmasEvent": {
     "DisplayName": "Christmas",
-    "StartDay": 25,
+    "StartDay": 12,
     "StartMonth": 12,
     "EndDay": 14,
     "EndMonth": 1,
