@@ -74,7 +74,7 @@
   "ChristmasEvent": {
     "DisplayName": "Christmas",
     "StartDay": 12,
-    "StartMonth": 12,
+    "StartMonth": 8,
     "EndDay": 14,
     "EndMonth": 1,
     "Items": [416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436]
