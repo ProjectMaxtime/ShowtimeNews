@@ -1,5 +1,5 @@
 {
-  "MainText": "https://projectmaxtime.github.io/ShowtimeNews/MainText.txt",
+  "MainText": "https://raw.githubusercontent.com/ProjectMaxtime/ShowtimeNews/refs/heads/main/MainText.txt",
   "TitleText": "https://projectmaxtime.github.io/ShowtimeNews/TitleText.txt",
   "Image": "https://projectmaxtime.github.io/ShowtimeNews/ShowtimeGamesLogo.png",
 }
