@@ -3,757 +3,1009 @@
     "ID": 1,
     "Name": "Skeleton_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 2,
     "Name": "Party_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 4,
     "Name": "Hazmat_Yellow_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 5,
     "Name": "Hazmat_Yellow_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 6,
     "Name": "Hazmat_Yellow_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 7,
     "Name": "Hazmat_Yellow_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 8,
     "Name": "Police_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 9,
     "Name": "Police_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 10,
     "Name": "Police_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 11,
     "Name": "Police_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 12,
     "Name": "Chemistry_Teacher",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 13,
     "Name": "Huggy_Head",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 14,
     "Name": "Huggy_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 15,
     "Name": "Huggy_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 16,
     "Name": "Huggy_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 17,
     "Name": "Kissy_Head",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 18,
     "Name": "Kissy_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 19,
     "Name": "Kissy_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 20,
     "Name": "Kissy_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 21,
     "Name": "Baseball_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 22,
     "Name": "Cowboy_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 23,
     "Name": "Ninja_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 24,
     "Name": "Egg_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 25,
     "Name": "Fedora",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 26,
     "Name": "Ninja_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 27,
     "Name": "Top_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 28,
     "Name": "White_Top_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 29,
     "Name": "Glove_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 30,
     "Name": "Huggy_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 31,
     "Name": "Mommy_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 33,
     "Name": "Skeleton_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 34,
     "Name": "Leather_Glove",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 35,
     "Name": "Skin_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 36,
     "Name": "Cat_Paw_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 37,
     "Name": "Bee_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 38,
     "Name": "Turkey_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 39,
     "Name": "Voxel_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 43,
     "Name": "Gold_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 45,
     "Name": "Hot_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 47,
     "Name": "Frozen_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 53,
     "Name": "Silver_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 66,
     "Name": "Astronaut_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 67,
     "Name": "Astronaut_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 68,
     "Name": "Astronaut_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 69,
     "Name": "Ninja_Hood",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 70,
     "Name": "Chef_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 71,
     "Name": "Princess_Dress",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 72,
     "Name": "Hotdog_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 73,
     "Name": "Scrap_Metal_Head",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 74,
     "Name": "Plunger_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 75,
     "Name": "Rainbow_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 76,
     "Name": "Scrap_Metal_Body",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 77,
     "Name": "Sombrero",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 78,
     "Name": "Scrap_Metal_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 79,
     "Name": "Scrap_Metal_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 80,
     "Name": "Anime_Girl_Hair",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 81,
     "Name": "Wizard_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 82,
     "Name": "Party_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 83,
     "Name": "Bear_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 84,
     "Name": "Fox_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 85,
     "Name": "Pharaoh_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 86,
     "Name": "Anime_Girl_Dress",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 87,
     "Name": "Crown",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 88,
     "Name": "Jester_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 89,
     "Name": "Anime_Girl_Socks",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 90,
     "Name": "Anime_Girl_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 91,
     "Name": "Alien_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 92,
     "Name": "Hot_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 93,
     "Name": "Huggy_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 94,
     "Name": "Skeleton_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 95,
     "Name": "Party_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 96,
     "Name": "Peacock",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 97,
     "Name": "Mouse",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 98,
     "Name": "Giraffe",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 99,
     "Name": "Owl",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 100,
     "Name": "Dog",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 101,
     "Name": "Cat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 102,
     "Name": "Monkey",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 103,
     "Name": "Chicken",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 104,
     "Name": "Pig",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 105,
     "Name": "Bulldog",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 106,
     "Name": "Raccoon",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 107,
     "Name": "Panda",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 108,
     "Name": "Rabbit",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 109,
     "Name": "Goat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 110,
     "Name": "Lion",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 111,
     "Name": "Bron",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 112,
     "Name": "Boogie_Bot",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 113,
     "Name": "Kissy_Missy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 114,
     "Name": "Candy_Cat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 115,
     "Name": "Catbee",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 116,
     "Name": "PJ_Pug-a-pillar",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 117,
     "Name": "Bunzo",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 118,
     "Name": "Ninja_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 119,
     "Name": "Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 120,
     "Name": "Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 122,
     "Name": "Astronaut_Helmet",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 123,
     "Name": "Hard_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 124,
     "Name": "Engineer_Vest",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 125,
     "Name": "Engineer_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 126,
     "Name": "Engineer_Boots",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 127,
     "Name": "Slick_Hair",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 128,
     "Name": "Sunglasses",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 129,
     "Name": "Leather_Jacket",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 130,
     "Name": "Cool_Jeans",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 131,
     "Name": "Slick_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 132,
     "Name": "Skeleton_Head",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": null,
+    "CosmeticType": null
   },
   {
     "ID": 133,
     "Name": "Skeleton_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": null,
+    "CosmeticType": null
   },
   {
     "ID": 134,
     "Name": "Skeleton_Feet",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": null,
+    "CosmeticType": null
   },
   {
     "ID": 135,
     "Name": "Claw_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 136,
     "Name": "Bunzo_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 137,
     "Name": "Bunzo_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 138,
     "Name": "Bunzo_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 139,
     "Name": "Bunzo_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 140,
     "Name": "Boxy_Head",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 141,
     "Name": "Boxy_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 142,
     "Name": "Boxy_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 143,
     "Name": "Boxy_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 144,
     "Name": "Knight_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 145,
     "Name": "Knight_Chestplate",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 146,
     "Name": "Knight_Leggings",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 147,
     "Name": "Knight_Boots",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 148,
     "Name": "Kawaii_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 149,
     "Name": "Princess_Hair",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 150,
     "Name": "Princess_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 151,
     "Name": "Princess_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 152,
@@ -765,391 +1017,521 @@
     "ID": 154,
     "Name": "Boxy_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 155,
     "Name": "Blue_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 156,
     "Name": "Green_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 157,
     "Name": "Orange_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 158,
     "Name": "Purple_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 159,
     "Name": "Red_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 160,
     "Name": "White_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 161,
     "Name": "Yellow_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 162,
     "Name": "Robot_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 163,
     "Name": "Daddy_Long_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 164,
     "Name": "Spiky_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 165,
     "Name": "Robot_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 166,
     "Name": "Wooden_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 167,
     "Name": "Scrap_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 168,
     "Name": "Electric_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 169,
     "Name": "Grafitti_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 170,
     "Name": "Kissy_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 171,
     "Name": "Boxy_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 172,
     "Name": "Mommy_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 173,
     "Name": "Barrel_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 174,
     "Name": "Bunzo_Silverware_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 175,
     "Name": "Boogie_Bot_Silverware_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 176,
     "Name": "Camo_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 177,
     "Name": "Balloon_Head",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 178,
     "Name": "Balloon_Torso",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 179,
     "Name": "Balloon_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 180,
     "Name": "Balloon_Feet",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 181,
     "Name": "Chicken_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 182,
     "Name": "Chicken_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 183,
     "Name": "Chicken_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 184,
     "Name": "Chicken_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 185,
     "Name": "Gauntlet_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 186,
     "Name": "Cat_Hood",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 187,
     "Name": "Cat_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 188,
     "Name": "Cat_Feet",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 189,
     "Name": "Cat_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 190,
     "Name": "Banded_Hoodie",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 191,
     "Name": "Plain_Hoodie",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 192,
     "Name": "Playtime_Hoodie",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 193,
     "Name": "MOB_Hoodie",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 194,
     "Name": "Dapper_Suit",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 195,
     "Name": "Dress_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 196,
     "Name": "Dress_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 197,
     "Name": "Robot_Head",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 198,
     "Name": "Robot_Torso",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 199,
     "Name": "Robot_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 200,
     "Name": "Robot_Feet",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 201,
     "Name": "Lavender_Palette_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 202,
     "Name": "Olive_Palette_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 203,
     "Name": "Blueberry_Palette_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 204,
     "Name": "Cherry_Palette_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 205,
     "Name": "Watermelon_Palette_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 206,
     "Name": "Silver_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 207,
     "Name": "Gold_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 208,
     "Name": "Ruby_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 209,
     "Name": "Mommy_Head",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 210,
     "Name": "Mommy_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 211,
     "Name": "Mommy_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 212,
     "Name": "Mommy_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 213,
     "Name": "Ponytail",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 214,
     "Name": "Neon_Pigtails",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 215,
     "Name": "Neon_Punk_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 216,
     "Name": "Neon_Punk_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 217,
     "Name": "Neon_Punk_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 218,
     "Name": "Jack_O_Lantern_Head",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 219,
@@ -1161,127 +1543,169 @@
     "ID": 220,
     "Name": "Robot_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 221,
     "Name": "Octo_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 222,
     "Name": "Silver_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 223,
     "Name": "Gold_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 224,
     "Name": "Ruby_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 225,
     "Name": "Black_Widow_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 226,
     "Name": "Octo_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 227,
     "Name": "Yellow_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 228,
     "Name": "Huggy_Wuggy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 229,
     "Name": "Boxy_Boo",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 230,
     "Name": "Mommy_Long_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 231,
     "Name": "No_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 232,
     "Name": "No_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 233,
     "Name": "No_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 234,
     "Name": "No_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 235,
     "Name": "No_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 236,
     "Name": "Classic_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 237,
     "Name": "Blue_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 243,
     "Name": "Silver_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 244,
     "Name": "Gold_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 245,
     "Name": "Ruby_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 246,
@@ -1317,325 +1741,433 @@
     "ID": 251,
     "Name": "Box_She_Boo",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 252,
     "Name": "Lunch_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 253,
     "Name": "Robot_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 254,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 256,
     "Name": "Wood_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 257,
     "Name": "Rock_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 258,
     "Name": "Red_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 259,
     "Name": "Baby_Blue_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 260,
     "Name": "Yellow_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 261,
     "Name": "Orange_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 262,
     "Name": "Purple_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 263,
     "Name": "Green_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 264,
     "Name": "White_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 265,
     "Name": "Rainbow_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 266,
     "Name": "Silver_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 267,
     "Name": "Gold_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 268,
     "Name": "Ruby_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 269,
     "Name": "Kissy_Missy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 270,
     "Name": "Killy_Willy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 272,
     "Name": "Maid_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 273,
     "Name": "Mom_Spaghetti",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 274,
     "Name": "Blue_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 275,
     "Name": "Yellow_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 276,
     "Name": "Orange_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 277,
     "Name": "Purple_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 278,
     "Name": "Pink_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 279,
     "Name": "Green_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 280,
     "Name": "White_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 281,
     "Name": "Vault_Metallic_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 282,
     "Name": "Cardboard_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 283,
     "Name": "Boxy_Brrr",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 284,
     "Name": "Silver_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 285,
     "Name": "Gold_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 286,
     "Name": "Ruby_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 288,
     "Name": "Snorkel",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 289,
     "Name": "Bron_Floatie",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 290,
     "Name": "Dino_Swim_Trunks",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 291,
     "Name": "Sandals",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 292,
     "Name": "Soldier_Helmet",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 293,
     "Name": "Soldier_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 294,
     "Name": "Soldier_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 295,
     "Name": "Soldier_Boots",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 296,
     "Name": "Monicle_Moustache",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 297,
     "Name": "Cat_Whiskers",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 298,
     "Name": "Medical_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 299,
     "Name": "Plague_Doctor_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 300,
     "Name": "Gas_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 301,
     "Name": "Stone_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 302,
     "Name": "Finger_Puppet_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 303,
     "Name": "Crystal_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 304,
     "Name": "Kissy_Missy_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 305,
     "Name": "Boxy_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 308,
     "Name": "Robot_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 310,
     "Name": "Fish_Tank_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 311,
@@ -1773,7 +2305,9 @@
     "ID": 342,
     "Name": "Googly_Eyes",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 343,
@@ -1917,211 +2451,281 @@
     "ID": 366,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 367,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 368,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 369,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 370,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 371,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 372,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 373,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 374,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 375,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 376,
     "Name": "Pride_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 377,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 378,
     "Name": "Scrap_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 379,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 380,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 381,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 382,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 383,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 384,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 385,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 386,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 387,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 388,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 393,
     "Name": "Hazmat_Red_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 394,
     "Name": "Hazmat_Blue_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 395,
     "Name": "Hazmat_Green_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 396,
     "Name": "Hazmat_Red_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 397,
     "Name": "Hazmat_Blue_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 398,
     "Name": "Hazmat_Green_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 399,
     "Name": "Hazmat_Red_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 400,
     "Name": "Hazmat_Blue_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 401,
     "Name": "Hazmat_Green_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 402,
     "Name": "Hazmat_Red_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 403,
     "Name": "Hazmat_Blue_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 404,
     "Name": "Hazmat_Green_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 405,
@@ -2151,13 +2755,17 @@
     "ID": 409,
     "Name": "Ruby_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 410,
     "Name": "Pride_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 411,
@@ -2169,61 +2777,81 @@
     "ID": 412,
     "Name": "Scuba_Helmet",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 413,
     "Name": "Scuba_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 414,
     "Name": "Scuba_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 415,
     "Name": "Scuba_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 416,
     "Name": "Candy_Cane_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 417,
     "Name": "Gingerbread_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 418,
     "Name": "Santa_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 419,
     "Name": "Santa_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 420,
     "Name": "Santa_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 421,
     "Name": "Santa_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 422,
@@ -2235,25 +2863,33 @@
     "ID": 423,
     "Name": "Elf_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 424,
     "Name": "Elf_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 425,
     "Name": "Elf_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 426,
     "Name": "Elf_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 427,
@@ -2265,25 +2901,33 @@
     "ID": 428,
     "Name": "Nutcracker_Boots",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 429,
     "Name": "Nutcracker_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 430,
     "Name": "Nutcracker_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 431,
     "Name": "Nutcracker_Helmet",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 432,
@@ -2295,25 +2939,33 @@
     "ID": 433,
     "Name": "Candy_Cane_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 434,
     "Name": "Grumpy_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 435,
     "Name": "Gingerbread_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 436,
     "Name": "Black_Ice_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 437,
@@ -2325,139 +2977,185 @@
     "ID": 438,
     "Name": "Sun_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 439,
     "Name": "Swim_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 440,
     "Name": "Swim_Shorts",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 441,
     "Name": "Flower_Sandals",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 442,
     "Name": "Clown_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 443,
     "Name": "Welding_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 444,
     "Name": "Steampunk_Goggles",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 445,
     "Name": "Default_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 446,
     "Name": "Original_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 447,
     "Name": "Kisses_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 448,
     "Name": "Chocolate_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 449,
     "Name": "Chocolate_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 450,
     "Name": "Chocolate_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 451,
     "Name": "Halo_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 452,
     "Name": "Heart_Glasses",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 453,
     "Name": "Boogie_Bot_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 454,
     "Name": "Boogie_Bot_Torso",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 455,
     "Name": "Boogie_Bot_Treads",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 456,
     "Name": "Leprechaun_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 457,
     "Name": "Leprechaun_Beard",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 458,
     "Name": "Leprechaun_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 459,
     "Name": "Leprechaun_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 460,
     "Name": "Leprechaun_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 462,
@@ -2475,25 +3173,33 @@
     "ID": 464,
     "Name": "Steampunk_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 465,
     "Name": "Lucky_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 466,
     "Name": "Pot_o'_Gold_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 467,
     "Name": "Shamrock_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 468,
@@ -2505,307 +3211,409 @@
     "ID": 469,
     "Name": "Lady_Luck_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 470,
     "Name": "Headphones",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 471,
     "Name": "MOB_Headphones",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 472,
     "Name": "Dreadlocks",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 473,
     "Name": "Long_Hair",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 474,
     "Name": "Messy_Short_Hair",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 475,
     "Name": "Poppy_Pigtails",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 476,
     "Name": "Pirate_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 477,
     "Name": "Pirate_Beard",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 478,
     "Name": "Pirate_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 479,
     "Name": "Pirate_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 480,
     "Name": "Pirate_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 481,
-    "Name": "Marshmallow_Huggy",
+    "Name": "Gooey_Booey",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 482,
     "Name": "Steampunk_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 483,
     "Name": "Steampunk_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 484,
     "Name": "Furnace_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 485,
     "Name": "Gumball_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 486,
     "Name": "CRT_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 487,
     "Name": "CRT_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 488,
     "Name": "Grab_Foot",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 489,
     "Name": "Retro_Futuristic_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 490,
     "Name": "Crash_Test_Dummy_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 491,
     "Name": "Crash_Test_Dummy_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 492,
     "Name": "Crash_Test_Dummy_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 493,
     "Name": "Easter_Bunzo_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 494,
     "Name": "Easter_Bunzo_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 495,
     "Name": "Easter_Bunzo_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 496,
     "Name": "Easter_Bunzo_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 497,
     "Name": "Chocolate_Bunzo_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 498,
     "Name": "Chocolate_Bunzo_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 499,
     "Name": "Chocolate_Bunzo_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 500,
     "Name": "Chocolate_Bunzo_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 501,
     "Name": "Steampunk_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 502,
     "Name": "Steampunk_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 503,
     "Name": "Steampunk_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 504,
     "Name": "Steampunk_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 505,
     "Name": "Prison_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 506,
     "Name": "Prison_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 507,
     "Name": "Prison_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 508,
     "Name": "Prison_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 509,
     "Name": "Gold_Glam_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 510,
     "Name": "Gold_Glam_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 511,
     "Name": "Gold_Glam_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 512,
     "Name": "Frog_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 513,
     "Name": "Frog_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 514,
     "Name": "Frog_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 515,
     "Name": "Frog_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 516,
     "Name": "Easter_Egg_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 517,
     "Name": "Easter_Basket_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 518,
     "Name": "Foam_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 519,
     "Name": "Easter_Egg_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 520,
@@ -2823,19 +3631,25 @@
     "ID": 522,
     "Name": "Pinhat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 523,
     "Name": "Bowling_Ball_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 524,
     "Name": "Make-a-Friend_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 525,
@@ -2877,379 +3691,491 @@
     "ID": 531,
     "Name": "Ravioli_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 532,
     "Name": "Burger_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 533,
     "Name": "Paper_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 534,
     "Name": "Balloon_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 535,
     "Name": "Baby_Long_Legs_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 536,
     "Name": "Bear_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 537,
     "Name": "Gorilla_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 538,
     "Name": "Cupcake_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 539,
     "Name": "Hot_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 540,
     "Name": "Voxel_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 541,
     "Name": "Scarecrow_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 542,
     "Name": "Tree_Hugger",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 543,
     "Name": "Zombie_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 544,
-    "Name": "Glutinous_Huggy",
+    "Name": "Glutonous_Huggy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 545,
     "Name": "Potato_Battery_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 546,
     "Name": "Ten_Gallon_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 547,
     "Name": "Lamp_Shade_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 548,
     "Name": "Burger_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 549,
     "Name": "Barry_Cart_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 550,
     "Name": "Potato_Battery_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 551,
     "Name": "Pirate_Chest_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 552,
     "Name": "Balloon_Pump_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 553,
     "Name": "Kawaii_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 554,
     "Name": "Clown_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 555,
     "Name": "Turtle_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 556,
     "Name": "Chillhop_Lobby_Music",
     "Type": "SoundPack",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "SoundType": "SP_Lobby"
   },
   {
     "ID": 557,
     "Name": "Elevator_Lobby_Music",
     "Type": "SoundPack",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "SoundType": "SP_Lobby"
   },
   {
     "ID": 558,
     "Name": "Scrap_Metal_Survivor_Sounds",
     "Type": "SoundPack",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "SoundType": "SP_Survivor"
   },
   {
     "ID": 559,
     "Name": "Cyborg_Survivor_Sounds",
     "Type": "SoundPack",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "SoundType": "SP_Survivor"
   },
   {
     "ID": 560,
     "Name": "Chilly_Ambiece",
     "Type": "SoundPack",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "SoundType": "SP_Ambient"
   },
   {
     "ID": 561,
     "Name": "Plastic_Survivor_Sounds",
     "Type": "SoundPack",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "SoundType": "SP_Survivor"
   },
   {
     "ID": 562,
     "Name": "Horror_Ambience",
     "Type": "SoundPack",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "SoundType": "SP_Ambient"
   },
   {
     "ID": 563,
     "Name": "Vaporwave_Ambience",
     "Type": "SoundPack",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "SoundType": "SP_Ambient"
   },
   {
     "ID": 564,
     "Name": "Breakcore_Chase_Music",
     "Type": "SoundPack",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "SoundType": "SP_Chase"
   },
   {
     "ID": 565,
     "Name": "Classic_Chase",
     "Type": "SoundPack",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "SoundType": "SP_Chase"
   },
   {
     "ID": 566,
     "Name": "303_Chase_Music",
     "Type": "SoundPack",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "SoundType": "SP_Chase"
   },
   {
     "ID": 567,
     "Name": "Chiptune_Lobby_Music",
     "Type": "SoundPack",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "SoundType": "SP_Lobby"
   },
   {
     "ID": 568,
     "Name": "8-Bit_Puzzle_Sounds",
     "Type": "SoundPack",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "SoundType": "SP_Puzzle"
   },
   {
     "ID": 569,
     "Name": "Plastic_Puzzle_Sounds",
     "Type": "SoundPack",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "SoundType": "SP_Puzzle"
   },
   {
     "ID": 570,
     "Name": "CRT_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 571,
     "Name": "Pirate_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 572,
     "Name": "Dumpster_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 573,
     "Name": "Digital_Huggy_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 574,
     "Name": "Owen_the_Oventron_Torso",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 575,
     "Name": "Owen_the_Oventron_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 576,
     "Name": "Owen_the_Oventron_Feet",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 577,
     "Name": "Wolf_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 578,
     "Name": "Wolf_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 579,
     "Name": "Wolf_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 580,
     "Name": "Wolf_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 581,
     "Name": "Goat_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 582,
     "Name": "Goat_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 583,
     "Name": "Goat_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 584,
     "Name": "Goat_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 585,
     "Name": "Theatre_Glasses",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 586,
     "Name": "Recycled_Toy_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 587,
     "Name": "Recycled_Toy_Torso",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 588,
     "Name": "Recycled_Toy_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 589,
     "Name": "Recycled_Toy_Feet",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 590,
     "Name": "Boogie_Bot_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 591,
     "Name": "Plated_Metal_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 592,
     "Name": "Mummy_Long_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 593,
     "Name": "Medusa_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 594,
@@ -3303,193 +4229,257 @@
     "ID": 602,
     "Name": "Suction_Cup_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 603,
     "Name": "Yarn_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 604,
     "Name": "Abominable_Snow_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 605,
     "Name": "Plated_Metal_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 606,
     "Name": "Statue_Huggy_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 607,
     "Name": "Statue_Huggy_Torso",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 608,
     "Name": "Statue_Huggy_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 609,
     "Name": "Statue_Huggy_Feet",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 610,
     "Name": "Marble_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 611,
     "Name": "Marble_Skin",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 612,
     "Name": "Gorilla_Grabpack",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 613,
     "Name": "Fry_Cook_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 614,
     "Name": "Fry_Cook_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 615,
     "Name": "Fry_Cook_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 616,
     "Name": "Fry_Cook_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 617,
     "Name": "Scientist_Goggles",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 618,
     "Name": "Scientist_Shirt",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 619,
     "Name": "Scientist_Pants",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 620,
     "Name": "Scientist_Shoes",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 621,
     "Name": "Baby_Long_Legs_Pack",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 626,
     "Name": "CRT_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 627,
     "Name": "CRT_Torso",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   },
   {
     "ID": 628,
     "Name": "CRT_Legs",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
   },
   {
     "ID": 629,
     "Name": "CRT_Feet",
     "Type": "Cosmetic",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 630,
     "Name": "Pirate_Hook_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 631,
     "Name": "Puzzle_Pillar_Pack_Phase_1",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 632,
     "Name": "Puzzle_Pillar_Pack_Phase_2",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
   },
   {
     "ID": 633,
     "Name": "Sir_Poops-a-lot_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 634,
     "Name": "Kick-me-Paul_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 635,
     "Name": "Daisy_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 636,
     "Name": "Cassie_Cutie-slippers",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
   },
   {
     "ID": 637,
     "Name": "Hockey_Mask",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Face"
   },
   {
     "ID": 638,
@@ -3501,13 +4491,17 @@
     "ID": 639,
     "Name": "Rainbow_Boxy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Boxy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 640,
     "Name": "Rainbow_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 641,
@@ -3525,13 +4519,17 @@
     "ID": 643,
     "Name": "Bucky_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 644,
     "Name": "Candy_Mommy",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
   },
   {
     "ID": 645,
@@ -3699,7 +4697,8 @@
     "ID": 672,
     "Name": "Steampunk_Survivor_Pack",
     "Type": "SoundPack",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "SoundType": null
   },
   {
     "ID": 673,
@@ -3717,31 +4716,36 @@
     "ID": 675,
     "Name": "Default_Survivor_Pack",
     "Type": "SoundPack",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "SoundType": "SP_Survivor"
   },
   {
     "ID": 676,
     "Name": "Default_Puzzle_Pack",
     "Type": "SoundPack",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "SoundType": "SP_Puzzle"
   },
   {
     "ID": 677,
     "Name": "Default_Chase_Music",
     "Type": "SoundPack",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "SoundType": "SP_Chase"
   },
   {
     "ID": 678,
     "Name": "Default_Lobby_Music",
     "Type": "SoundPack",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "SoundType": "SP_Lobby"
   },
   {
     "ID": 679,
     "Name": "Default_Ambient_Music",
     "Type": "SoundPack",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "SoundType": "SP_Ambient"
   },
   {
     "ID": 680,
@@ -3753,24 +4757,32 @@
     "ID": 681,
     "Name": "Kawaii_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 682,
     "Name": "Retro_Futuristic_Hand",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
   },
   {
     "ID": 684,
     "Name": "PJ_Hat",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   },
   {
     "ID": 685,
     "Name": "Killy_Willy_Hoodie",
     "Type": "Cosmetic",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
   }
 ]
