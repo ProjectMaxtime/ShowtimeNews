@@ -4784,5 +4784,117 @@
     "Rarity": "Epic",
     "CharacterType": "Survivor",
     "CosmeticType": "Shirt"
+  },
+  {
+    "ID": 686,
+    "Name": "ToyBox_Pack",
+    "Type": "Cosmetic",
+    "Rarity": "Exclusive",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
+  },
+  {
+    "ID": 687,
+    "Name": "Reject_Mommy",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Mommy",
+    "CosmeticType": "Skin"
+  },
+  {
+    "ID": 688,
+    "Name": "Veggie_Hat",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
+  },
+  {
+    "ID": 689,
+    "Name": "Veggie_Torso",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
+  },
+  {
+    "ID": 690,
+    "Name": "Veggie_Pants",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Pants"
+  },
+  {
+    "ID": 691,
+    "Name": "Veggie_Feet",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shoes"
+  },
+  {
+    "ID": 692,
+    "Name": "Frankie_Pack",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
+  },
+  {
+    "ID": 693,
+    "Name": "Omni_Hand",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
+  },
+  {
+    "ID": 694,
+    "Name": "Purple_Hand",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "HandL"
+  },
+  {
+    "ID": 695,
+    "Name": "Grabpack_Upgrade_2.0",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Grabpack"
+  },
+  {
+    "ID": 696,
+    "Name": "Bratva_Hoodie",
+    "Type": "Cosmetic",
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Shirt"
+  },
+  {
+    "ID": 697,
+    "Name": "Galaxy_Huggy",
+    "Type": "Cosmetic",
+    "Rarity": "Legendary",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
+  },
+  {
+    "ID": 698,
+    "Name": "Kawaii_Kissy",
+    "Type": "Cosmetic",
+    "Rarity": "Epic",
+    "CharacterType": "Huggy",
+    "CosmeticType": "Skin"
+  },
+  {
+    "ID": 699,
+    "Name": "Limon_Head",
+    "Type": "Cosmetic",
+    "Rarity": "Legendary",
+    "CharacterType": "Survivor",
+    "CosmeticType": "Hat"
   }
 ]
