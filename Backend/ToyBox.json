@@ -1,5 +1,5 @@
 {
-  "ID": "ShowtimePass_SeasonOne",
+  "ID": "ShowtimeSeasonPass_One",
   "DisplayName": "PHASE 1",
   "Items": [
     {
@@ -30,7 +30,7 @@
 
     },
     {
-      "ID": 673,
+      "ID": 12,
       "Free": true,
       "Level": 6
 
@@ -42,7 +42,7 @@
 
     },
     {
-      "ID": 674,
+      "ID": 72,
       "Free": true,
       "Level": 8
 
@@ -54,7 +54,7 @@
 
     },
     {
-      "ID": 673,
+      "ID": 77,
       "Free": true,
       "Level": 10
 
