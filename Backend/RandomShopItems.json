@@ -1472,16 +1472,7 @@
     },
     {
       "Id": "685",
-      "Price": 1000,
-      "EventName": "",
-      "Sale": false,
-      "SalePrice": null
-    }
-  ]
-},
-{
-      "Id": "1005",
-      "Price": 550,
+      "Price": 0,
       "EventName": "",
       "Sale": false,
       "SalePrice": null
