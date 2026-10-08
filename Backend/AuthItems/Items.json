@@ -4898,30 +4898,3 @@
     "CosmeticType": "Hat"
   }
 ]
-{
-    "ID": 1001,
-    "Name": "Veggie_Hat",
-    "Type": "Cosmetic",
-    "Rarity": "Epic",
-    "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
-  }
-]
-{
-    "ID": 1002,
-    "Name": "Veggie_Torso",
-    "Type": "Cosmetic",
-    "Rarity": "Epic",
-    "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
-  }
-]
-{
-    "ID": 1003,
-    "Name": "Veggie_Legs",
-    "Type": "Cosmetic",
-    "Rarity": "Epic",
-    "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
-  }
-]
