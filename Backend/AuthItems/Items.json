@@ -4925,12 +4925,3 @@
     "CosmeticType": "Pants"
   }
 ]
-{
-    "ID": 1004,
-    "Name": "Veggie_Feet",
-    "Type": "Cosmetic",
-    "Rarity": "Epic",
-    "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
-  }
-]
