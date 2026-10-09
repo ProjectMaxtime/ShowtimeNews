@@ -1304,7 +1304,7 @@
     },
     {
       "Id": "646",
-      "Price": 2000,
+      "Price": 0,
       "EventName": "",
       "Sale": false,
       "SalePrice": null
