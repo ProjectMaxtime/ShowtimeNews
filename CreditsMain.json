@@ -3,5 +3,5 @@
   "TitleText": "https://raw.githubusercontent.com/ProjectMaxtime/ShowtimeNews/refs/heads/main/TitleText.txt",
   "Image": "https://projectmaxtime.github.io/ShowtimeNews/ShowtimeGamesLogo.png",
   "UpdateReleasedText": "https://projectmaxtime.github.io/ShowtimeNews/UpdatedReleasedText.json",
-  "UpdateReleasedText": "https://projectmaxtime.github.io/ShowtimeNews/IntroText.json"
+  "IntroText": "https://projectmaxtime.github.io/ShowtimeNews/IntroText.json"
 }
