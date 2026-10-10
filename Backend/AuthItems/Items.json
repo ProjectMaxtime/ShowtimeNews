@@ -4896,5 +4896,11 @@
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
     "CosmeticType": "Hat"
+  },
+  {
+    "ID": 712,
+    "Name": "Chronoshift",
+    "Type": "Action",
+    "Rarity": "Legendary",
   }
 ]
