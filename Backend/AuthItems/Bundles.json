@@ -1,503 +1,56 @@
 {
-    "219": {
-        "Outfit": true,
-        "BundleContent": [
-            214,
-            215,
-            216,
-            217
-        ]
-    },
-    "344": {
-        "Outfit": true,
-        "BundleContent": [
-            132,
-            1,
-            133,
-            134
-        ]
-    },
-    "345": {
-        "Outfit": true,
-        "BundleContent": [
-            8,
-            9,
-            10,
-            11
-        ]
-    },
-    "346": {
-        "Outfit": true,
-        "BundleContent": [
-            13,
-            14,
-            15,
-            16
-        ]
-    },
-    "347": {
-        "Outfit": true,
-        "BundleContent": [
-            17,
-            18,
-            19,
-            20
-        ]
-    },
-    "348": {
-        "Outfit": true,
-        "BundleContent": [
-            122,
-            66,
-            67,
-            68
-        ]
-    },
-    "349": {
-        "Outfit": true,
-        "BundleContent": [
-            80,
-            86,
-            89,
-            90,
-            148
-        ]
-    },
-    "350": {
-        "Outfit": true,
-        "BundleContent": [
-            177,
-            178,
-            179,
-            180
-        ]
-    },
-    "351": {
-        "Outfit": true,
-        "BundleContent": [
-            140,
-            141,
-            142,
-            143
-        ]
-    },
-    "352": {
-        "Outfit": true,
-        "BundleContent": [
-            136,
-            137,
-            138,
-            139
-        ]
-    },
-    "353": {
-        "Outfit": true,
-        "BundleContent": [
-            186,
-            187,
-            188,
-            189
-        ]
-    },
-    "354": {
-        "Outfit": true,
-        "BundleContent": [
-            181,
-            182,
-            183,
-            184
-        ]
-    },
-    "355": {
-        "Outfit": true,
-        "BundleContent": [
-            127,
-            129,
-            130,
-            131
-        ]
-    },
-    "356": {
-        "Outfit": true,
-        "BundleContent": [
-            288,
-            289,
-            290,
-            291
-        ]
-    },
-    "357": {
-        "Outfit": true,
-        "BundleContent": [
-            194,
-            195,
-            196,
-            27
-        ]
-    },
-    "358": {
-        "Outfit": true,
-        "BundleContent": [
-            123,
-            124,
-            125,
-            126
-        ]
-    },
-    "359": {
-        "Outfit": true,
-        "BundleContent": [
-            144,
-            145,
-            146,
-            147
-        ]
-    },
-    "360": {
-        "Outfit": true,
-        "BundleContent": [
-            209,
-            210,
-            211,
-            212
-        ]
-    },
-    "361": {
-        "Outfit": true,
-        "BundleContent": [
-            23,
-            26,
-            69,
-            118
-        ]
-    },
-    "647": {
-        "Outfit": false,
-        "BundleContent": [
-          444,
-          464,
-          482,
-          483,
-          501,
-          502,
-          503,
-          504
-        ]
-    },
-    "648": {
-        "Outfit": false,
-        "BundleContent": [
-          574,
-          575,
-          576,
-          633,
-          634,
-          635,
-          636
-        ]
-    },
-    "362": {
-        "Outfit": true,
-        "BundleContent": [
-            71,
-            149,
-            150,
-            151
-        ]
-    },
-    "363": {
-        "Outfit": true,
-        "BundleContent": [
-            197,
-            198,
-            199,
-            200
-        ]
-    },
-    "364": {
-        "Outfit": true,
-        "BundleContent": [
-            73,
-            76,
-            78,
-            79
-        ]
-    },
-    "365": {
-        "Outfit": true,
-        "BundleContent": [
-            292,
-            293,
-            294,
-            295
-        ]
-    },
-    "405": {
-        "Outfit": true,
-        "BundleContent": [
-            395,
-            398,
-            401,
-            404
-        ]
-    },
-    "406": {
-        "Outfit": true,
-        "BundleContent": [
-            394,
-            397,
-            400,
-            403
-        ]
-    },
-    "407": {
-        "Outfit": true,
-        "BundleContent": [
-            393,
-            396,
-            399,
-            402
-        ]
-    },
-    "411": {
-        "Outfit": true,
-        "BundleContent": [
-            412,
-            413,
-            414,
-            415
-        ]
-    },
-    "422": {
-        "Outfit": true,
-        "BundleContent": [
-            418,
-            419,
-            420,
-            421
-        ]
-    },
-    "427": {
-        "Outfit": true,
-        "BundleContent": [
-            423,
-            424,
-            425,
-            426
-        ]
-    },
-    "432": {
-        "Outfit": true,
-        "BundleContent": [
-            428,
-            429,
-            430,
-            431
-        ]
-    },
-    "408": {
-        "Outfit": true,
-        "BundleContent": [
-            4,
-            5,
-            6,
-            7
-        ]
-    },
-    "437": {
-        "Outfit": true,
-        "BundleContent": [
-            438,
-            439,
-            440,
-            441
-        ]
-    },
-    "462": {
-        "Outfit": true,
-        "BundleContent": [
-            453,
-            454,
-            455
-        ]
-    },
-    "463": {
-        "Outfit": true,
-        "BundleContent": [
-            456,
-            458,
-            459,
-            460
-        ]
-    },
-    "520": {
-        "Outfit": true,
-        "BundleContent": [
-            493,
-            494,
-            495,
-            496
-        ]
-    },
-    "521": {
-        "Outfit": true,
-        "BundleContent": [
-            497,
-            498,
-            499,
-            500
-        ]
-    },
-    "649": {
-        "Outfit": true,
-        "BundleContent": [
-            476,
-            477,
-            478,
-            479,
-            480
-        ]
-    },
-    "650": {
-        "Outfit": true,
-        "BundleContent": [
-            490,
-            491,
-            492
-        ]
-    },
-    "651": {
-        "Outfit": true,
-        "BundleContent": [
-            444,
-            501,
-            502,
-            503,
-            504
-        ]
-    },
-    "652": {
-        "Outfit": true,
-        "BundleContent": [
-            505,
-            506,
-            507,
-            508
-        ]
-    },
-    "653": {
-        "Outfit": true,
-        "BundleContent": [
-            509,
-            510,
-            511
-        ]
-    },
-    "654": {
-        "Outfit": true,
-        "BundleContent": [
-            512,
-            513,
-            514,
-            515
-        ]
-    },
-    "655": {
-        "Outfit": true,
-        "BundleContent": [
-            574,
-            575,
-            576
-        ]
-    },
-    "656": {
-        "Outfit": true,
-        "BundleContent": [
-            577,
-            578,
-            579,
-            580
-        ]
-    },
-    "657": {
-        "Outfit": true,
-        "BundleContent": [
-            581,
-            582,
-            583,
-            584
-        ]
-    },
-    "658": {
-        "Outfit": true,
-        "BundleContent": [
-            586,
-            587,
-            588,
-            589
-        ]
-    },
-    "659": {
-        "Outfit": true,
-        "BundleContent": [
-            613,
-            614,
-            615,
-            616
-        ]
-    },
-    "660": {
-        "Outfit": true,
-        "BundleContent": [
-            617,
-            618,
-            619,
-            620
-        ]
-    },
-    "645": {
-        "Outfit": false,
-        "BundleContent": [
-          213,
-          472,
-          473,
-          474,
-          475
-        ]
-    },
-    "646": {
-        "Outfit": false,
-        "BundleContent": [
-          486,
-          487,
-          570,
-          626,
-          627,
-          628,
-          629,
-          680
-        ]
-    },
-    "661": {
-        "Outfit": true,
-        "BundleContent": [
-            626,
-            627,
-            628,
-            629
-        ]
-    },
-    "662": {
-        "Outfit": false,
-        "BundleContent": [
-          476,
-          477,
-          478,
-          479,
-          480,
-          551,
-          571,
-          630
-        ]
-   }
-    
+    "219": { "Outfit": true, "BundleContent": [214, 215, 216, 217] },
+    "344": { "Outfit": true, "BundleContent": [132, 1, 133, 134] },
+    "345": { "Outfit": true, "BundleContent": [8, 9, 10, 11] },
+    "346": { "Outfit": true, "BundleContent": [13, 14, 15, 16] },
+    "347": { "Outfit": true, "BundleContent": [17, 18, 19, 20] },
+    "348": { "Outfit": true, "BundleContent": [122, 66, 67, 68] },
+    "349": { "Outfit": true, "BundleContent": [80, 86, 89, 90, 148] },
+    "350": { "Outfit": true, "BundleContent": [177, 178, 179, 180] },
+    "351": { "Outfit": true, "BundleContent": [140, 141, 142, 143] },
+    "352": { "Outfit": true, "BundleContent": [136, 137, 138, 139] },
+    "353": { "Outfit": true, "BundleContent": [186, 187, 188, 189] },
+    "354": { "Outfit": true, "BundleContent": [181, 182, 183, 184] },
+    "355": { "Outfit": true, "BundleContent": [127, 129, 130, 131] },
+    "356": { "Outfit": true, "BundleContent": [288, 289, 290, 291] },
+    "357": { "Outfit": true, "BundleContent": [194, 195, 196, 27] },
+    "358": { "Outfit": true, "BundleContent": [123, 124, 125, 126] },
+    "359": { "Outfit": true, "BundleContent": [144, 145, 146, 147] },
+    "360": { "Outfit": true, "BundleContent": [209, 210, 211, 212] },
+    "361": { "Outfit": true, "BundleContent": [23, 26, 69, 118] },
+    "647": { "Outfit": false, "BundleContent": [444, 464, 482, 483, 501, 502, 503, 504] },
+    "648": { "Outfit": false, "BundleContent": [574, 575, 576, 633, 634, 635, 636] },
+    "362": { "Outfit": true, "BundleContent": [71, 149, 150, 151] },
+    "363": { "Outfit": true, "BundleContent": [197, 198, 199, 200] },
+    "364": { "Outfit": true, "BundleContent": [73, 76, 78, 79] },
+    "365": { "Outfit": true, "BundleContent": [292, 293, 294, 295] },
+    "405": { "Outfit": true, "BundleContent": [395, 398, 401, 404] },
+    "406": { "Outfit": true, "BundleContent": [394, 397, 400, 403] },
+    "407": { "Outfit": true, "BundleContent": [393, 396, 399, 402] },
+    "411": { "Outfit": true, "BundleContent": [412, 413, 414, 415] },
+    "422": { "Outfit": true, "BundleContent": [418, 419, 420, 421] },
+    "427": { "Outfit": true, "BundleContent": [423, 424, 425, 426] },
+    "432": { "Outfit": true, "BundleContent": [428, 429, 430, 431] },
+    "408": { "Outfit": true, "BundleContent": [4, 5, 6, 7] },
+    "437": { "Outfit": true, "BundleContent": [438, 439, 440, 441] },
+    "462": { "Outfit": true, "BundleContent": [453, 454, 455] },
+    "463": { "Outfit": true, "BundleContent": [456, 458, 459, 460] },
+    "520": { "Outfit": true, "BundleContent": [493, 494, 495, 496] },
+    "521": { "Outfit": true, "BundleContent": [497, 498, 499, 500] },
+    "649": { "Outfit": true, "BundleContent": [476, 477, 478, 479, 480] },
+    "650": { "Outfit": true, "BundleContent": [490, 491, 492] },
+    "651": { "Outfit": true, "BundleContent": [444, 501, 502, 503, 504] },
+    "652": { "Outfit": true, "BundleContent": [505, 506, 507, 508] },
+    "653": { "Outfit": true, "BundleContent": [509, 510, 511] },
+    "654": { "Outfit": true, "BundleContent": [512, 513, 514, 515] },
+    "655": { "Outfit": true, "BundleContent": [574, 575, 576] },
+    "656": { "Outfit": true, "BundleContent": [577, 578, 579, 580] },
+    "657": { "Outfit": true, "BundleContent": [581, 582, 583, 584] },
+    "658": { "Outfit": true, "BundleContent": [586, 587, 588, 589] },
+    "659": { "Outfit": true, "BundleContent": [613, 614, 615, 616] },
+    "660": { "Outfit": true, "BundleContent": [617, 618, 619, 620] },
+    "645": { "Outfit": false, "BundleContent": [213, 472, 473, 474, 475] },
+    "646": { "Outfit": false, "BundleContent": [486, 487, 570, 626, 627, 628, 629, 680] },
+    "661": { "Outfit": true, "BundleContent": [626, 627, 628, 629] },
+    "662": { "Outfit": false, "BundleContent": [476, 477, 478, 479, 480, 551, 571, 630] }
+}
