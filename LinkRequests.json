@@ -2,5 +2,5 @@
   "IntroMenuText": "https://projectmaxtime.github.io/ShowtimeNews/IntroMenuText.txt",
   "BuildText": "https://projectmaxtime.github.io/ShowtimeNews/BuildText.txt",
   "SeasonRender": "https://projectmaxtime.github.io/ShowtimeNews/SeasonRender.png",
-  "IsDeveloper": True
+  "IsDeveloper": true
 }
