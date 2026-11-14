@@ -1,13 +1,13 @@
 {
 	"IsReleased": false,
-	"BuildText": "DEVELOPER BUILD",
+	"BuildText": "Developer Build:",
 	"BlackListedPlayers": [
 		"0",
 		"0",
 		"0"
 	],
 	"WhiteListedPlayers": [
-		"76561199646299302",
+		"0",
 		"0",
 		"0"
 	],
