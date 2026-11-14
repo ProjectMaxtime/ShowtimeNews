@@ -1,18 +1,19 @@
 {
-  "IsReleased": false,
-  "BlackListedPlayers": [
-    "0",
-    "0",
-    "0"
-  ],
-  "WhiteListedPlayers": [
-    "0",
-    "0",
-    "0"
-  ],
-  "BlockedItems": [
-    "0",
-    "0",
-    "0"
-  ]
+	"IsReleased": false,
+	"BuildText": "DEVELOPER BUILD",
+	"BlackListedPlayers": [
+		"0",
+		"0",
+		"0"
+	],
+	"WhiteListedPlayers": [
+		"0",
+		"0",
+		"0"
+	],
+	"BlockedItems": [
+		"0",
+		"0",
+		"0"
+	]
 }
