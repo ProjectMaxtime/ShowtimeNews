@@ -2,12 +2,12 @@
 	"IsReleased": false,
 	"BuildText": "Developer Build:",
 	"BlackListedPlayers": [
-		"76561199646299302",
+		"0",
 		"0",
 		"0"
 	],
 	"WhiteListedPlayers": [
-		"0",
+		"76561199646299302",
 		"0",
 		"0"
 	],
