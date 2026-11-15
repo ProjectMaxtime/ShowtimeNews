@@ -20,7 +20,7 @@
   "BlackListedPlayers": [
     "0"
   ],
-  "IsReleased": false,
+  "IsReleased": true,
   "TagsEnabled": true,
   "BuildText": "Showtime Build"
 }
