@@ -1,7 +1,25 @@
 {
-	"LeadDeveloper": [
-		"76561199515594293",
-		"0",
-		"0"
-	]
+  "LeadDeveloper": [
+    "0"
+  ],
+  "Legend": [
+    "0"
+  ],
+  "Developer": [
+    "0"
+  ],
+  "Tester": [
+    "0"
+  ],
+  "ContentCreator": [
+    "0"
+  ],
+  "WhiteListedPlayers": [
+    "0"
+  ],
+  "BlackListedPlayers": [
+    "0"
+  ],
+  "IsReleased": "true",
+  "BuildText": "Developer Build"
 }
