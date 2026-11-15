@@ -3,7 +3,7 @@
     "76561199527230833"
   ],
   "Legend": [
-    "0"
+    "76561199479069745"
   ],
   "Developer": [
     "0"
@@ -20,7 +20,7 @@
   "BlackListedPlayers": [
     "0"
   ],
-  "IsReleased": true,
-  "TagsEnabled": false,
+  "IsReleased": false,
+  "TagsEnabled": true,
   "BuildText": "Showtime Build"
 }
