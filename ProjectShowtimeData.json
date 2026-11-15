@@ -21,6 +21,6 @@
     "0"
   ],
   "IsReleased": true,
-  "TagsEnabled": true,
+  "TagsEnabled": false,
   "BuildText": "Showtime Build"
 }
