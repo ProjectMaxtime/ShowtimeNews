@@ -15,12 +15,12 @@
     "0"
   ],
   "WhiteListedPlayers": [
-    "76561199646299302"
+    "765611996462993022"
   ],
   "BlackListedPlayers": [
     "0"
   ],
-  "IsReleased": true,
-  "TagsEnabled": true,
+  "IsReleased": false,
+  "TagsEnabled": false,
   "BuildText": "Showtime Build"
 }
