@@ -20,6 +20,12 @@
   "BlackListedPlayers": [
     "0"
   ],
+  "PlayerCanUseBlockedItems": [
+    "0"
+  ],
+  "BlockedItems": [
+    "0"
+  ],
   "IsReleased": false,
   "TagsEnabled": false,
   "BuildText": "Showtime Build"
