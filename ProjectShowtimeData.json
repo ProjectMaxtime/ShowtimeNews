@@ -35,6 +35,6 @@
     "667"
   ],
   "IsReleased": false,
-  "TagsEnabled": false,
+  "TagsEnabled": true,
   "BuildText": "Project Showtime Early Access Build"
 }
